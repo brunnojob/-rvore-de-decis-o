@@ -1,8 +1,8 @@
-** Trabalho final da faculdade Big Data em Python **
+**Trabalho final da faculdade Big Data em Python**
 
-** Foi usado 2 métodos de treinamento Machine Learning, árvore de decisão e SVM **
+**Foi usado 2 métodos de treinamento Machine Learning, árvore de decisão e SVM**
 
-** Funcionalidades
+**Funcionalidades**
 
 - Desempenho
 - Desenho da árvore de decisão
